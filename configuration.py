@@ -1,4 +1,4 @@
-URL_SERVICE = "https://bdc659b5-f6ab-4407-9559-a68286f2b9e2.serverhub.praktikum-services.ru"
+URL_SERVICE = "https://ee332a7f-6b90-4ba8-8c67-86f6e2c60067.serverhub.praktikum-services.ru"
 
 CREATE_ORDER_PATH = "/api/v1/orders"
 GET_ORDER_PATH = "/api/v1/orders/track"
